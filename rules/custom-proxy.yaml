@@ -1,1 +1,19 @@
-payload: []
+payload:
+  # Cloudflare
+  - DOMAIN-SUFFIX,cloudflare.com
+  - DOMAIN-SUFFIX,cloudflare-dns.com
+  - DOMAIN-SUFFIX,cloudflareclient.com
+  - DOMAIN,challenges.cloudflare.com
+
+  # 常用网站
+  - DOMAIN-SUFFIX,ryuugames.com
+  - DOMAIN-SUFFIX,chub.ai
+  - DOMAIN-SUFFIX,charhub.io
+  - DOMAIN-SUFFIX,lyricify.app
+  - DOMAIN-SUFFIX,asmr.one
+  - DOMAIN-SUFFIX,yodayo.com
+
+  # Python / AI 依赖
+  - DOMAIN-SUFFIX,pytorch.org
+  - DOMAIN-SUFFIX,pypi.org
+  - DOMAIN-SUFFIX,pythonhosted.org
