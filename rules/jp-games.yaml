@@ -1,6 +1,5 @@
 payload:
   # === 赛马娘 ===
-  - DOMAIN-SUFFIX,umamusume.jp
   - DOMAIN,api-umamusume.cygames.jp
 
   # === 学园偶像大师 ===
@@ -10,9 +9,8 @@ payload:
   - DOMAIN-SUFFIX,bn765.com
 
   # === 公主连结 ===
-  - DOMAIN-SUFFIX,priconne-redive.akamaized.net
-  - DOMAIN-SUFFIX,priconne-redive.cygames.jp
-
+  - DOMAIN-SUFFIX,api-priconne-redive.cygames.jp
+  
   # === 舰队 Collection ===
   - DOMAIN-SUFFIX,kancolle-server.com
   - IP-CIDR,203.104.209.0/24
