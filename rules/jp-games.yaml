@@ -16,3 +16,7 @@ payload:
   - IP-CIDR,203.104.209.0/24
   - IP-CIDR,125.6.189.0/24
   - IP-CIDR,125.6.184.215/32
+
+ # === FGO ===
+ - DOMAIN-SUFFIX,fate-go.jp
+ 
