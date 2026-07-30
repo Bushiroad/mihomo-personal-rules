@@ -20,3 +20,5 @@ payload:
   # === FGO ===
   - DOMAIN-SUFFIX,fate-go.jp
  
+ # === NTE ===
+  - DOMAIN-SUFFIX,perfectworld.com
