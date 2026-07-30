@@ -22,3 +22,6 @@ payload:
  
  # === NTE ===
   - DOMAIN-SUFFIX,perfectworld.com
+  
+ # === KURUO ===
+  - DOMAIN-SUFFIX,aki-game.net
