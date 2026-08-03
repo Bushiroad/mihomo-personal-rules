@@ -1,6 +1,7 @@
 payload:
   # === 赛马娘 ===
   - DOMAIN-SUFFIX,api-umamusume.cygames.jp
+  - DOMAIN-SUFFIX,umamusume.jp
   
   # === 学园偶像大师 ===
   - DOMAIN-SUFFIX,game-gakuen-idolmaster.jp
