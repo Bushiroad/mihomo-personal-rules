@@ -18,3 +18,6 @@ payload:
   - DOMAIN-SUFFIX,pypi.org
   - DOMAIN-SUFFIX,pythonhosted.org
   - DOMAIN-SUFFIX,civitai.red
+
+  # 云服务器
+  - DOMAIN-SUFFIX,gomami.io
