@@ -1,16 +1,13 @@
 payload:
   # === 赛马娘 ===
-  - DOMAIN-SUFFIX,api-umamusume.cygames.jp
   - DOMAIN-SUFFIX,umamusume.jp
+  - DOMAIN-SUFFIX,api-umamusume.cygames.jp
   
   # === 学园偶像大师 ===
   - DOMAIN-SUFFIX,game-gakuen-idolmaster.jp
 
   # === 偶像大师其他系列 ===
   - DOMAIN-SUFFIX,bn765.com
-
-  # === 公主连结 ===
-  - DOMAIN-SUFFIX,api-priconne-redive.cygames.jp
   
   # === 舰队 Collection ===
   - DOMAIN-SUFFIX,kancolle-server.com
@@ -20,13 +17,3 @@ payload:
 
   # === FGO ===
   - DOMAIN-SUFFIX,fate-go.jp
- 
- # === NTE ===
-  - DOMAIN-SUFFIX,perfectworld.com
-  
- # === KURUO ===
-  - DOMAIN-SUFFIX,aki-game.net
-  - DOMAIN-SUFFIX,kurogames.net
-
- # === Nikke ===
-  - DOMAIN-SUFFIX,nikke-kr.com
