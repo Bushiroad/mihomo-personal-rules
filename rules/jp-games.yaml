@@ -17,3 +17,6 @@ payload:
 
   # === FGO ===
   - DOMAIN-SUFFIX,fate-go.jp
+
+  # === 其他 ===
+  - DOMAIN-SUFFIX,so-net.tw
