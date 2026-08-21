@@ -21,8 +21,18 @@ payload:
   # === wu ===
   - DOMAIN-SUFFIX,kurogame.com
   - DOMAIN-SUFFIX,kurobe.com
-  - DOMAIN-KEYWORD,wutheringwaves
-  - DOMAIN-KEYWORD,kurogames
+  - DOMAIN-SUFFIX,kurogames.com
+  - DOMAIN-SUFFIX,wutheringwaves.com
+  - DOMAIN-SUFFIX,aki-game.com
+  - DOMAIN-KEYWORD,wuthering
+  - DOMAIN-KEYWORD,wuwa
+  
+  # === NTE ===
+  - DOMAIN-SUFFIX,nevernesstoeverness.com
+  - DOMAIN-SUFFIX,hotta.com
+  - DOMAIN-KEYWORD,neverness
+  - DOMAIN-KEYWORD,hotta
+  - DOMAIN-KEYWORD,nte
   
   # === 其他 ===
   - DOMAIN-SUFFIX,so-net.tw
