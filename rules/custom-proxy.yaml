@@ -20,6 +20,7 @@ payload:
   - DOMAIN-SUFFIX,civitai.red
   - DOMAIN-SUFFIX,pixai.art
   - DOMAIN-SUFFIX,aitag.win
+  - DOMAIN-SUFFIX,models.dev
   
   # 云服务器
   - DOMAIN-SUFFIX,gomami.io
