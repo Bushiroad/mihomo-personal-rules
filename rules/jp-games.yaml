@@ -18,5 +18,12 @@ payload:
   # === FGO ===
   - DOMAIN-SUFFIX,fate-go.jp
 
+  # === wu ===
+  - DOMAIN-SUFFIX,kurogame.com
+  - DOMAIN-SUFFIX,kurobe.com
+  - DOMAIN-KEYWORD,wutheringwaves
+  - DOMAIN-KEYWORD,kurogames
+  
   # === 其他 ===
   - DOMAIN-SUFFIX,so-net.tw
+  
