@@ -24,3 +24,11 @@ payload:
   
   # 云服务器
   - DOMAIN-SUFFIX,gomami.io
+
+  # Bilibili 港澳台番剧（日本落地 DNS 解锁台湾）
+  - DOMAIN-SUFFIX,bilibili.com
+  - DOMAIN-SUFFIX,bilibili.tv
+  - DOMAIN-SUFFIX,bilivideo.com
+  - DOMAIN-SUFFIX,hdslb.com
+  - DOMAIN-SUFFIX,biliapi.net
+  
