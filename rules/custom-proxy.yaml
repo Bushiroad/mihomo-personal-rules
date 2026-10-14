@@ -12,6 +12,7 @@ payload:
   - DOMAIN-SUFFIX,lyricify.app
   - DOMAIN-SUFFIX,asmr.one
   - DOMAIN-SUFFIX,yodayo.com
+  - DOMAIN-SUFFIX,shop.geekjack.net
 
   # Python / AI 依赖
   - DOMAIN-SUFFIX,pytorch.org
