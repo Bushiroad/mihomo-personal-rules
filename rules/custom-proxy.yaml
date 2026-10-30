@@ -37,4 +37,7 @@ payload:
   - DOMAIN-SUFFIX,trace.moe
   - DOMAIN-SUFFIX,lrclib.net
   - DOMAIN-SUFFIX,movie-pilot.org
+  - DOMAIN-SUFFIX,fanart.tv
+  - DOMAIN-SUFFIX,amll.dev
+  - DOMAIN-SUFFIX,acoustid.org
   
