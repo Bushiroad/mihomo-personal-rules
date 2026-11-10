@@ -42,11 +42,5 @@ payload:
   - DOMAIN-SUFFIX,acoustid.org
   
   # Anygo验证相关
-  - DOMAIN-SUFFIX,itoolab.com
-  - DOMAIN-SUFFIX,itoolab.tw
-  - DOMAIN-SUFFIX,iwherego.com
-  - DOMAIN-SUFFIX,mocpogo.com
-  - DOMAIN-SUFFIX,fonesgo.com
-  - DOMAIN-KEYWORD,itoolab
-  - DOMAIN-KEYWORD,iwherego
-  
+- DOMAIN-SUFFIX,growthbook.io,PROXY
+- DOMAIN,analytics.editcookie.com,PROXY
