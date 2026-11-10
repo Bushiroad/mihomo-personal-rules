@@ -41,3 +41,9 @@ payload:
   - DOMAIN-SUFFIX,amll.dev
   - DOMAIN-SUFFIX,acoustid.org
   
+  # Anygo验证相关
+  - DOMAIN-SUFFIX,itoolab.com
+  - DOMAIN-SUFFIX,itoolab.tw
+  - DOMAIN-SUFFIX,iwherego.com
+  - DOMAIN-KEYWORD,itoolab
+  
