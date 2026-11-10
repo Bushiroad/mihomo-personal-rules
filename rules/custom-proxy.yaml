@@ -41,6 +41,3 @@ payload:
   - DOMAIN-SUFFIX,amll.dev
   - DOMAIN-SUFFIX,acoustid.org
   
-  # Anygo验证相关
-- DOMAIN-SUFFIX,growthbook.io,PROXY
-- DOMAIN,analytics.editcookie.com,PROXY
